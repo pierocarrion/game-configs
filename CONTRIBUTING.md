@@ -4,11 +4,11 @@ Thank you for your interest in contributing to the Game Config Repository! We ap
 
 ## Table of Contents
 
--   [Introduction](https://chat.openai.com/#introduction)
--   [Getting Started](https://chat.openai.com/#getting-started)
--   [Contributing Guidelines](https://chat.openai.com/#contributing-guidelines)
--   [Code of Conduct](https://chat.openai.com/#code-of-conduct)
--   [License](https://chat.openai.com/#license)
+-   [Introduction]
+-   [Getting Started]
+-   [Contributing Guidelines]
+-   [Code of Conduct]
+-   [License]
 
 ## Introduction
 
